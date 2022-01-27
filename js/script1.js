@@ -8,7 +8,7 @@ class Produto {
 
     }
 
-    adicionar(){
+    salvar(){
 
         alert("vamos adicionar um produto");
     }
